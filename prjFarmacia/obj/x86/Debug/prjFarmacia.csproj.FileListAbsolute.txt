@@ -1,0 +1,93 @@
+C:\Users\HD-CLONE.HD-CLONE-PC\Desktop\prjFarmacia\prjFarmacia\bin\Debug\prjFarmacia.exe
+C:\Users\HD-CLONE.HD-CLONE-PC\Desktop\prjFarmacia\prjFarmacia\bin\Debug\prjFarmacia.pdb
+C:\Users\HD-CLONE.HD-CLONE-PC\Desktop\prjFarmacia\prjFarmacia\obj\x86\Debug\prjFarmacia.Form1.resources
+C:\Users\HD-CLONE.HD-CLONE-PC\Desktop\prjFarmacia\prjFarmacia\obj\x86\Debug\prjFarmacia.Properties.Resources.resources
+C:\Users\HD-CLONE.HD-CLONE-PC\Desktop\prjFarmacia\prjFarmacia\obj\x86\Debug\prjFarmacia.csproj.GenerateResource.Cache
+C:\Users\HD-CLONE.HD-CLONE-PC\Desktop\prjFarmacia\prjFarmacia\obj\x86\Debug\prjFarmacia.exe
+C:\Users\HD-CLONE.HD-CLONE-PC\Desktop\prjFarmacia\prjFarmacia\obj\x86\Debug\prjFarmacia.pdb
+C:\Users\HD-CLONE.HD-CLONE-PC\Desktop\prjFarmacia\prjFarmacia\bin\Debug\prjFarmacia.exe.config
+C:\Users\HD-CLONE.HD-CLONE-PC\Desktop\prjFarmacia\prjFarmacia\obj\x86\Debug\prjFarmacia.frmCidade.resources
+C:\Users\HD-CLONE.HD-CLONE-PC\Desktop\prjFarmacia\prjFarmacia\obj\x86\Debug\prjFarmacia.frmCliente.resources
+H:\TUDO\2° Ano\Aulas de Info\LPOO\prjFarmacia\prjFarmacia\bin\Debug\prjFarmacia.exe.config
+H:\TUDO\2° Ano\Aulas de Info\LPOO\prjFarmacia\prjFarmacia\obj\x86\Debug\prjFarmacia.exe
+H:\TUDO\2° Ano\Aulas de Info\LPOO\prjFarmacia\prjFarmacia\obj\x86\Debug\prjFarmacia.pdb
+F:\TUDO\2° Ano\Aulas de Info\LPOO\prjFarmacia\prjFarmacia\bin\Debug\prjFarmacia.exe.config
+F:\TUDO\2° Ano\Aulas de Info\LPOO\prjFarmacia\prjFarmacia\obj\x86\Debug\prjFarmacia.exe
+F:\TUDO\2° Ano\Aulas de Info\LPOO\prjFarmacia\prjFarmacia\obj\x86\Debug\prjFarmacia.pdb
+F:\TUDO\2° Ano\Aulas de Info\LPOO\prjFarmacia\prjFarmacia\bin\Debug\prjFarmacia.exe
+F:\TUDO\2° Ano\Aulas de Info\LPOO\prjFarmacia\prjFarmacia\bin\Debug\prjFarmacia.pdb
+F:\TUDO\2° Ano\Aulas de Info\LPOO\prjFarmacia\prjFarmacia\obj\x86\Debug\prjFarmacia.csprojResolveAssemblyReference.cache
+F:\TUDO\2° Ano\Aulas de Info\LPOO\prjFarmacia\prjFarmacia\obj\x86\Debug\prjFarmacia.Form1.resources
+F:\TUDO\2° Ano\Aulas de Info\LPOO\prjFarmacia\prjFarmacia\obj\x86\Debug\prjFarmacia.frmCidade.resources
+F:\TUDO\2° Ano\Aulas de Info\LPOO\prjFarmacia\prjFarmacia\obj\x86\Debug\prjFarmacia.frmCliente.resources
+F:\TUDO\2° Ano\Aulas de Info\LPOO\prjFarmacia\prjFarmacia\obj\x86\Debug\prjFarmacia.Properties.Resources.resources
+F:\TUDO\2° Ano\Aulas de Info\LPOO\prjFarmacia\prjFarmacia\obj\x86\Debug\prjFarmacia.csproj.GenerateResource.Cache
+G:\TUDO\2° Ano\Aulas de Info\LPOO\prjFarmacia\prjFarmacia\bin\Debug\prjFarmacia.exe.config
+G:\TUDO\2° Ano\Aulas de Info\LPOO\prjFarmacia\prjFarmacia\obj\x86\Debug\prjFarmacia.exe
+G:\TUDO\2° Ano\Aulas de Info\LPOO\prjFarmacia\prjFarmacia\obj\x86\Debug\prjFarmacia.pdb
+H:\TUDO\2° Ano\Aulas de Info\LPOO\prjFarmacia\prjFarmacia\bin\Debug\prjFarmacia.exe
+H:\TUDO\2° Ano\Aulas de Info\LPOO\prjFarmacia\prjFarmacia\bin\Debug\prjFarmacia.pdb
+H:\TUDO\2° Ano\Aulas de Info\LPOO\prjFarmacia\prjFarmacia\obj\x86\Debug\prjFarmacia.csprojResolveAssemblyReference.cache
+H:\TUDO\2° Ano\Aulas de Info\LPOO\prjFarmacia\prjFarmacia\obj\x86\Debug\prjFarmacia.Form1.resources
+H:\TUDO\2° Ano\Aulas de Info\LPOO\prjFarmacia\prjFarmacia\obj\x86\Debug\prjFarmacia.frmCidade.resources
+H:\TUDO\2° Ano\Aulas de Info\LPOO\prjFarmacia\prjFarmacia\obj\x86\Debug\prjFarmacia.frmCliente.resources
+H:\TUDO\2° Ano\Aulas de Info\LPOO\prjFarmacia\prjFarmacia\obj\x86\Debug\prjFarmacia.Properties.Resources.resources
+H:\TUDO\2° Ano\Aulas de Info\LPOO\prjFarmacia\prjFarmacia\obj\x86\Debug\prjFarmacia.csproj.GenerateResource.Cache
+H:\TUDO\2° Ano\Aulas de Info\LPOO\prjFarmacia\prjFarmacia\obj\x86\Debug\prjFarmacia.frmFunc.resources
+H:\TUDO\2° Ano\Aulas de Info\LPOO\prjFarmacia\prjFarmacia\obj\x86\Debug\prjFarmacia.frmProduto.resources
+D:\TUDO\2° Ano\Aulas de Info\LPOO\prjFarmacia\prjFarmacia\bin\Debug\prjFarmacia.exe.config
+D:\TUDO\2° Ano\Aulas de Info\LPOO\prjFarmacia\prjFarmacia\obj\x86\Debug\prjFarmacia.exe
+D:\TUDO\2° Ano\Aulas de Info\LPOO\prjFarmacia\prjFarmacia\obj\x86\Debug\prjFarmacia.pdb
+D:\TUDO\2° Ano\Aulas de Info\LPOO\prjFarmacia\prjFarmacia\bin\Debug\prjFarmacia.exe
+D:\TUDO\2° Ano\Aulas de Info\LPOO\prjFarmacia\prjFarmacia\bin\Debug\prjFarmacia.pdb
+D:\TUDO\2° Ano\Aulas de Info\LPOO\prjFarmacia\prjFarmacia\obj\x86\Debug\prjFarmacia.csprojResolveAssemblyReference.cache
+D:\TUDO\2° Ano\Aulas de Info\LPOO\prjFarmacia\prjFarmacia\obj\x86\Debug\prjFarmacia.Form1.resources
+D:\TUDO\2° Ano\Aulas de Info\LPOO\prjFarmacia\prjFarmacia\obj\x86\Debug\prjFarmacia.frmCidade.resources
+D:\TUDO\2° Ano\Aulas de Info\LPOO\prjFarmacia\prjFarmacia\obj\x86\Debug\prjFarmacia.frmCliente.resources
+D:\TUDO\2° Ano\Aulas de Info\LPOO\prjFarmacia\prjFarmacia\obj\x86\Debug\prjFarmacia.frmFunc.resources
+D:\TUDO\2° Ano\Aulas de Info\LPOO\prjFarmacia\prjFarmacia\obj\x86\Debug\prjFarmacia.frmProduto.resources
+D:\TUDO\2° Ano\Aulas de Info\LPOO\prjFarmacia\prjFarmacia\obj\x86\Debug\prjFarmacia.Properties.Resources.resources
+D:\TUDO\2° Ano\Aulas de Info\LPOO\prjFarmacia\prjFarmacia\obj\x86\Debug\prjFarmacia.csproj.GenerateResource.Cache
+F:\TUDO\2° Ano\Aulas de Info\LPOO\prjFarmacia\prjFarmacia\obj\x86\Debug\prjFarmacia.frmFunc.resources
+F:\TUDO\2° Ano\Aulas de Info\LPOO\prjFarmacia\prjFarmacia\obj\x86\Debug\prjFarmacia.frmProduto.resources
+F:\TUDO\2° Ano\Aulas de Info\LPOO\prjFarmacia\prjFarmacia\obj\x86\Debug\prjFarmacia.frmLocalizarCid.resources
+F:\TUDO\2° Ano\Aulas de Info\LPOO\prjFarmacia\prjFarmacia\obj\x86\Debug\prjFarmacia.frmLocalizarCli.resources
+F:\TUDO\2° Ano\Aulas de Info\LPOO\prjFarmacia\prjFarmacia\obj\x86\Debug\prjFarmacia.frmLocalFunc.resources
+D:\TUDO\2° Ano\Aulas de Info\LPOO\prjFarmacia\prjFarmacia\obj\x86\Debug\prjFarmacia.frmLocalFunc.resources
+D:\TUDO\2° Ano\Aulas de Info\LPOO\prjFarmacia\prjFarmacia\obj\x86\Debug\prjFarmacia.frmLocalizarCid.resources
+D:\TUDO\2° Ano\Aulas de Info\LPOO\prjFarmacia\prjFarmacia\obj\x86\Debug\prjFarmacia.frmLocalizarCli.resources
+D:\TUDO\2° Ano\Aulas de Info\LPOO\prjFarmacia\prjFarmacia\obj\x86\Debug\prjFarmacia.frmLocalProd.resources
+F:\TUDO\2° Ano\Aulas de Info\LPOO\prjFarmacia\prjFarmacia\obj\x86\Debug\prjFarmacia.frmLocalProd.resources
+H:\TUDO\2° Ano\Aulas de Info\LPOO\prjFarmacia\prjFarmacia\obj\x86\Debug\prjFarmacia.frmLocalFunc.resources
+H:\TUDO\2° Ano\Aulas de Info\LPOO\prjFarmacia\prjFarmacia\obj\x86\Debug\prjFarmacia.frmLocalizarCid.resources
+H:\TUDO\2° Ano\Aulas de Info\LPOO\prjFarmacia\prjFarmacia\obj\x86\Debug\prjFarmacia.frmLocalizarCli.resources
+H:\TUDO\2° Ano\Aulas de Info\LPOO\prjFarmacia\prjFarmacia\obj\x86\Debug\prjFarmacia.frmLocalProd.resources
+H:\TUDO\2° Ano\Aulas de Info\LPOO\prjFarmacia\prjFarmacia\obj\x86\Debug\prjFarmacia.frmRelCid.resources
+H:\TUDO\2° Ano\Aulas de Info\LPOO\prjFarmacia\prjFarmacia\obj\x86\Debug\RdlCompile.cache
+H:\TUDO\2° Ano\Aulas de Info\LPOO\prjFarmacia\prjFarmacia\obj\x86\Debug\RdlCompile.compiled
+H:\TUDO\2° Ano\Aulas de Info\LPOO\prjFarmacia\prjFarmacia\obj\x86\Debug\prjFarmacia.frmRelCli.resources
+H:\TUDO\2° Ano\Aulas de Info\LPOO\prjFarmacia\prjFarmacia\obj\x86\Debug\prjFarmacia.frmRelFunc.resources
+H:\TUDO\2° Ano\Aulas de Info\LPOO\prjFarmacia\prjFarmacia\obj\x86\Debug\prjFarmacia.frmRelProd.resources
+H:\TUDO\2° Ano\Aulas de Info\LPOO\prjFarmacia\prjFarmacia\obj\x86\Debug\prjFarmacia.frmLogin.resources
+E:\TUDO\2° Ano\Aulas de Info\LPOO\prjFarmacia\prjFarmacia\obj\x86\Debug\prjFarmacia.csprojAssemblyReference.cache
+E:\TUDO\2° Ano\Aulas de Info\LPOO\prjFarmacia\prjFarmacia\obj\x86\Debug\prjFarmacia.Form1.resources
+E:\TUDO\2° Ano\Aulas de Info\LPOO\prjFarmacia\prjFarmacia\obj\x86\Debug\prjFarmacia.frmCidade.resources
+E:\TUDO\2° Ano\Aulas de Info\LPOO\prjFarmacia\prjFarmacia\obj\x86\Debug\prjFarmacia.frmCliente.resources
+E:\TUDO\2° Ano\Aulas de Info\LPOO\prjFarmacia\prjFarmacia\obj\x86\Debug\prjFarmacia.frmFunc.resources
+E:\TUDO\2° Ano\Aulas de Info\LPOO\prjFarmacia\prjFarmacia\obj\x86\Debug\prjFarmacia.frmLocalFunc.resources
+E:\TUDO\2° Ano\Aulas de Info\LPOO\prjFarmacia\prjFarmacia\obj\x86\Debug\prjFarmacia.frmLocalizarCid.resources
+E:\TUDO\2° Ano\Aulas de Info\LPOO\prjFarmacia\prjFarmacia\obj\x86\Debug\prjFarmacia.frmLocalizarCli.resources
+E:\TUDO\2° Ano\Aulas de Info\LPOO\prjFarmacia\prjFarmacia\obj\x86\Debug\prjFarmacia.frmLocalProd.resources
+E:\TUDO\2° Ano\Aulas de Info\LPOO\prjFarmacia\prjFarmacia\obj\x86\Debug\prjFarmacia.frmLogin.resources
+E:\TUDO\2° Ano\Aulas de Info\LPOO\prjFarmacia\prjFarmacia\obj\x86\Debug\prjFarmacia.frmProduto.resources
+E:\TUDO\2° Ano\Aulas de Info\LPOO\prjFarmacia\prjFarmacia\obj\x86\Debug\prjFarmacia.frmRelCid.resources
+E:\TUDO\2° Ano\Aulas de Info\LPOO\prjFarmacia\prjFarmacia\obj\x86\Debug\prjFarmacia.frmRelCli.resources
+E:\TUDO\2° Ano\Aulas de Info\LPOO\prjFarmacia\prjFarmacia\obj\x86\Debug\prjFarmacia.frmRelFunc.resources
+E:\TUDO\2° Ano\Aulas de Info\LPOO\prjFarmacia\prjFarmacia\obj\x86\Debug\prjFarmacia.frmRelProd.resources
+E:\TUDO\2° Ano\Aulas de Info\LPOO\prjFarmacia\prjFarmacia\obj\x86\Debug\prjFarmacia.Properties.Resources.resources
+E:\TUDO\2° Ano\Aulas de Info\LPOO\prjFarmacia\prjFarmacia\obj\x86\Debug\prjFarmacia.csproj.GenerateResource.cache
+E:\TUDO\2° Ano\Aulas de Info\LPOO\prjFarmacia\prjFarmacia\obj\x86\Debug\RdlCompile.cache
+E:\TUDO\2° Ano\Aulas de Info\LPOO\prjFarmacia\prjFarmacia\obj\x86\Debug\RdlCompile.compiled
+E:\TUDO\2° Ano\Aulas de Info\LPOO\prjFarmacia\prjFarmacia\obj\x86\Debug\prjFarmacia.csproj.CoreCompileInputs.cache
+E:\TUDO\2° Ano\Aulas de Info\LPOO\prjFarmacia\prjFarmacia\obj\x86\Debug\prjFarmacia.exe
+E:\TUDO\2° Ano\Aulas de Info\LPOO\prjFarmacia\prjFarmacia\obj\x86\Debug\prjFarmacia.pdb
